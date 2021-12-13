@@ -342,6 +342,12 @@ const themes = {
     text_color: "bcbcbc",
     bg_color: "262626",
   },
+  carmesin: {
+    title_color: "ff2401",
+    icon_color: "ffffaf",
+    text_color: "ff2401",
+    bg_color: "262626",
+  },
 };
 
 module.exports = themes;
